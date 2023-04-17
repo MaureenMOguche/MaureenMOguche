@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaureenMOguche
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a C#/.Net Software Engineer.
 - 💞️ I’m looking to collaborate on any projects that involves frontend
 - 📫 How to reach me "career.oguchemaureen@outlook.com"
 
